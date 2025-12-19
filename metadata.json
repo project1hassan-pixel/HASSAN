@@ -1,0 +1,7 @@
+{
+  "name": "LingoSnap - English Learning Tool",
+  "description": "A minimal and user-friendly application to learn English vocabulary with Persian meanings, phonetic pronunciations, AI-generated clipart, and printable word lists.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
